@@ -6,18 +6,12 @@
 
 #### Personal projects:
 
-|                          Project                          |                         Description                          |          Tools / Frameworks           |
-| :-------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: |
-|  [Drug Names](https://larryn35.github.io/drugnames.html)  | Quiz app for learning drug names<br>(available on the [App Store](https://apps.apple.com/us/app/drug-names/id1557575694)) |      SwiftUI, Core Data, WebKit       |
-| [Hello World](https://larryn35.github.io/helloworld.html) |                      Real-time chat app                      | SwiftUI, Firebase, SDWebImagesSwiftUI |
-
-<br>
-
-#### Currently working on:
-
-  - an app feature that uses MLKit's text recognition API to identify drugs and display relevant information
-  - a simple [basketball stats app](https://github.com/larryn35/BasketballStats) to practice working with REST APIs and learn Combine and unit testing
-  - following MVVM and writing cleaner and testable code
+|                           Project                            |                         Description                          |          Tools / Frameworks           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: |
+|   [Drug Names](https://larryn35.github.io/drugnames.html)    | Quiz app for learning drug names<br>(available on the [App Store](https://apps.apple.com/us/app/drug-names/id1557575694)) |      SwiftUI, Core Data, WebKit       |
+| [Pyrls Vision](https://larryn35.github.io/otherprojects.html) |        Drug interaction checker with text recognition        |       SwiftUI, Combine, ML Kit        |
+| [Basketball Stats](https://github.com/larryn35/BasketballStats) |         Stat tracking app for the current NBA season         |           SwiftUI, Combine            |
+|  [Hello World](https://larryn35.github.io/helloworld.html)   |                      Real-time chat app                      | SwiftUI, Firebase, SDWebImagesSwiftUI |
 
 <br>
 
