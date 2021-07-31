@@ -16,12 +16,6 @@
 
 <br>
 
-#### Currently Working on:
-
-- Gaining a better understanding of data structures and algorithms through [Udemy](https://www.udemy.com/course/the-swift-arcade-data-structures-and-algorithms-bootcamp/).
-
-<br>
-
 #### Languages and tools:
 
 ![](https://img.shields.io/static/v1?message=Swift&logo=swift&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
@@ -29,11 +23,6 @@
 
 ![](https://img.shields.io/static/v1?message=Figma&logo=figma&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
 ![](https://img.shields.io/static/v1?message=Canva&logo=canva&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
-
-![](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
-![](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
-![](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
-![](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&logo=visual-studio-code&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
 
 ---
 
