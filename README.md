@@ -1,6 +1,6 @@
 # [![header](https://github.com/larryn35/larryn35/blob/main/Header.png?raw=true)](https://larryn35.github.io)
 
-#### I enjoy creating iOS apps, playing video games, traveling, and photography.
+#### I enjoy creating iOS apps, playing video games, traveling, and photography. Currently playing around with Vapor and creating animations with Rive.
 
 ---
 
