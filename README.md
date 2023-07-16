@@ -1,6 +1,6 @@
 # [![header](https://github.com/larryn35/larryn35/blob/main/Header.png?raw=true)](https://larryn35.github.io)
 
-#### I enjoy creating iOS apps, playing video games, traveling, and photography. Currently playing around with Vapor and creating animations with Rive.
+#### I enjoy creating iOS apps, playing video games, traveling, and photography. 
 
 ---
 
@@ -13,16 +13,6 @@
 | [Pyrls Vision](https://larryn35.github.io/otherprojects.html) |        Drug interaction checker with text recognition        |       SwiftUI, Combine, ML Kit        |
 | [Basketball Stats](https://github.com/larryn35/BasketballStats) |         Stat tracking app for the current NBA season         |           SwiftUI, Combine            |
 |  [Hello World](https://larryn35.github.io/helloworld.html)   |                      Real-time chat app                      | SwiftUI, Firebase, SDWebImagesSwiftUI |
-
-<br>
-
-#### Languages and tools:
-
-![](https://img.shields.io/static/v1?message=Swift&logo=swift&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
-![](https://img.shields.io/static/v1?message=Xcode&logo=xcode&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
-
-![](https://img.shields.io/static/v1?message=Figma&logo=figma&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
-![](https://img.shields.io/static/v1?message=Canva&logo=canva&labelColor=376666&color=5c5c5c&logoColor=ffc593&label=%20)
 
 ---
 
